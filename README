@@ -1,0 +1,14 @@
+JS_REST (For want of a better name).
+
+Problem:
+It can be a right pain to make sure the UI stays in sync with the appication state once JS is more heavily used in your app.
+
+Proposed solution:
+Provide a simple way to create classes in JS that represent the models in your application and provide access to CRUD actions. Additionally provide a means to trigger code to run when your model is updated.
+
+For more information (in the mean time) see:
+http://github.com/dies-el/js_rest_example
+
+Licensed under MIT (see MIT-LICENSE.txt)
+
+Copyright (c) 2010 Andrew Donaldson http://dies-el.co.uk/
